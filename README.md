@@ -79,6 +79,7 @@ Merged into projects I do not maintain.
 | [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Stream the daemon log tail instead of reading the whole file to return its last 64KB. Also corrects a byte offset applied to a decoded string, which shortened the window on any log holding multi-byte characters | [#1043](https://github.com/Nano-Collective/nanocoder/pull/1043) |
 | [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Release the pending slot in the daemon IPC client when serializing or writing a request throws, instead of leaving one entry per failed request for the lifetime of the client | [#1045](https://github.com/Nano-Collective/nanocoder/pull/1045) |
 | [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Stop an MCP disconnect rebuilding the whole tool registry, which discarded workspace custom tools with their approval metadata, skill and bundle tools, and the gate that hides `web_search` without an API key | [#1056](https://github.com/Nano-Collective/nanocoder/pull/1056) |
+| [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Expand brace patterns such as `*.{ts,tsx}` in event-router subscription globs, so a skill subscribed with one actually fires. Unbalanced braces stay literal rather than building a regex that throws | [#1079](https://github.com/Nano-Collective/nanocoder/pull/1079) |
 
 ---
 
