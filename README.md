@@ -70,6 +70,16 @@ I publish tooling I actually use. Everything MIT, documented and maintained.
 | [**deo_emerges**](https://pub.dev/packages/deo_emerges) | Flutter networking on Dio. Request deduplication, typed responses, uploads and downloads with progress. Two dependencies, all six platforms, WebAssembly ready, 160/160 on pub.dev | [![pub](https://img.shields.io/pub/v/deo_emerges?style=flat-square&color=0175C2&logo=dart&logoColor=white)](https://pub.dev/packages/deo_emerges) |
 | [**file_compression_plus**](https://pub.dev/packages/file_compression_plus) | Flutter. Image and PDF compression with quality and dimension control | [![pub](https://img.shields.io/pub/v/file_compression_plus?style=flat-square&color=0175C2&logo=dart&logoColor=white)](https://pub.dev/packages/file_compression_plus) |
 
+### Upstream contributions
+
+Merged into projects I do not maintain.
+
+| Project | Contribution | PR |
+| --- | --- | --- |
+| [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Stream the daemon log tail instead of reading the whole file to return its last 64KB. Also corrects a byte offset applied to a decoded string, which shortened the window on any log holding multi-byte characters | [#1043](https://github.com/Nano-Collective/nanocoder/pull/1043) |
+| [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Release the pending slot in the daemon IPC client when serializing or writing a request throws, instead of leaving one entry per failed request for the lifetime of the client | [#1045](https://github.com/Nano-Collective/nanocoder/pull/1045) |
+| [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Stop an MCP disconnect rebuilding the whole tool registry, which discarded workspace custom tools with their approval metadata, skill and bundle tools, and the gate that hides `web_search` without an API key | [#1056](https://github.com/Nano-Collective/nanocoder/pull/1056) |
+
 ---
 
 ## Writing
