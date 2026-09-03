@@ -81,6 +81,7 @@ Merged into projects I do not maintain.
 | [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Stop an MCP disconnect rebuilding the whole tool registry, which discarded workspace custom tools with their approval metadata, skill and bundle tools, and the gate that hides `web_search` without an API key | [#1056](https://github.com/Nano-Collective/nanocoder/pull/1056) |
 | [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Route sub-agent tool approvals to the ACP client rather than denying them silently, so a client that gates writes sees delegated work as well as top-level calls | [#1080](https://github.com/Nano-Collective/nanocoder/pull/1080) |
 | [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Expand brace patterns such as `*.{ts,tsx}` in event-router subscription globs, so a skill subscribed with one actually fires. Unbalanced braces stay literal rather than building a regex that throws | [#1079](https://github.com/Nano-Collective/nanocoder/pull/1079) |
+| [**super-productivity**](https://github.com/super-productivity/super-productivity) | Anchor the schedule day panel's `now` to the day being shown, so the panel stops emptying between midnight and a custom start-of-next-day. Pulls the anchoring the month view already did inline into one helper both views share | [#9835](https://github.com/super-productivity/super-productivity/pull/9835) |
 
 ---
 
