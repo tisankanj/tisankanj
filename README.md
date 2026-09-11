@@ -83,6 +83,7 @@ Merged into projects I do not maintain.
 | [**nanocoder**](https://github.com/Nano-Collective/nanocoder) | Expand brace patterns such as `*.{ts,tsx}` in event-router subscription globs, so a skill subscribed with one actually fires. Unbalanced braces stay literal rather than building a regex that throws | [#1079](https://github.com/Nano-Collective/nanocoder/pull/1079) |
 | [**plotly.js**](https://github.com/plotly/plotly.js) | Add `layout.legend.groupdoubleclick`, so a legend double-click can isolate a single trace while a single click still toggles its whole group. Follows the existing `groupclick` pattern | [#7997](https://github.com/plotly/plotly.js/pull/7997) |
 | [**super-productivity**](https://github.com/super-productivity/super-productivity) | Anchor the schedule day panel's `now` to the day being shown, so the panel stops emptying between midnight and a custom start-of-next-day. Pulls the anchoring the month view already did inline into one helper both views share | [#9835](https://github.com/super-productivity/super-productivity/pull/9835) |
+| [**super-productivity**](https://github.com/super-productivity/super-productivity) | Refuse a truncated legacy backup before the migration dereferences the slices it is migrating, so a missing core slice returns the repair-not-possible message rather than an opaque failure. Adds a log line marking the file as legacy, since both refusal paths throw identical text | [#9811](https://github.com/super-productivity/super-productivity/pull/9811) |
 
 ---
 
