@@ -16,8 +16,8 @@ React and Flutter on the front, AWS underneath.
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tisankan)
 [![Email](https://img.shields.io/badge/hello@tisankan.dev-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@tisankan.dev)
 
-![Profile views](https://komarev.com/ghpvc/?username=rascal-sl&label=Profile%20views&color=0e75b6&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/rascal-sl?style=flat-square&logo=github&label=Followers&color=1F6FEB)](https://github.com/rascal-sl)
+![Profile views](https://komarev.com/ghpvc/?username=tisankanj&label=Profile%20views&color=0e75b6&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/tisankanj?style=flat-square&logo=github&label=Followers&color=1F6FEB)](https://github.com/tisankanj)
 
 </div>
 
@@ -127,9 +127,9 @@ More at [tisankan.dev/blog](https://tisankan.dev/blog/).
 
 <div align="center">
 
-[![Streak](https://streak-stats.demolab.com/?user=rascal-sl&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/rascal-sl)
+[![Streak](https://streak-stats.demolab.com/?user=tisankanj&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/tisankanj)
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rascal-sl&theme=github-compact&hide_border=true&area=true)](https://github.com/rascal-sl)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tisankanj&theme=github-compact&hide_border=true&area=true)](https://github.com/tisankanj)
 
 </div>
 
