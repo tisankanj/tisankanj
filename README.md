@@ -38,7 +38,7 @@ Most of what I know came from the unglamorous half of that: idempotent payment w
 | Organization | What it is | |
 | --- | --- | --- |
 | [**Yarl Ventures (PVT) Ltd**](https://github.com/Yarl-Ventures-PVT-Ltd) | The company. Technology partner for SMEs and growth-stage businesses | [yarlventures.com](https://yarlventures.com) |
-| [**Tisankan.dev**](https://github.com/Tisankan-dev) | Open-source packages and developer tooling | [tisankan.dev](https://tisankan.dev) |
+| **Tisankan.dev** | Open-source packages and developer tooling | [tisankan.dev](https://tisankan.dev) |
 | [**EDUS Tutor**](https://github.com/edustutor) | Education platform. Classes, attendance, exams, fee collection | [edustutor.com](https://edustutor.com) |
 | [**MediMan**](https://github.com/mediman-ife) | Telehealth. Consultations, video and audio calls, e-prescriptions | [mediman.life](https://mediman.life) |
 | [**Starly.me**](https://github.com/Starly-me) | Product work in progress | |
@@ -128,8 +128,6 @@ More at [tisankan.dev/blog](https://tisankan.dev/blog/).
 <div align="center">
 
 [![Streak](https://streak-stats.demolab.com/?user=tisankanj&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/tisankanj)
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tisankanj&theme=github-compact&hide_border=true&area=true)](https://github.com/tisankanj)
 
 </div>
 
