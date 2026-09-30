@@ -138,12 +138,48 @@ Most of my work lives inside the organizations above rather than on this profile
 
 <div align="center">
 
-### Elsewhere
+### Find me online
 
-[![X](https://img.shields.io/badge/@JTisankan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/JTisankan)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-4600-7236)
+**Professional & developer**
+
+[LinkedIn](https://www.linkedin.com/in/tisankan) ·
+[GitHub @tisankanj](https://github.com/tisankanj) ·
+[GitHub @Tisankan-dev](https://github.com/Tisankan-dev) ·
+[npm](https://www.npmjs.com/~tisankan) ·
+[DEV](https://dev.to/tisankan) ·
+[Stack Overflow](https://stackoverflow.com/users/22553826/tisankan) ·
+[Stack Overflow (legacy profile)](https://stackoverflow.com/users/12242803/tisankan-jeyakumaar) ·
+[Kaggle](https://www.kaggle.com/tisankan) ·
+[WordPress.org](https://profiles.wordpress.org/tisankan) ·
+[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/user/18360373/) ·
+[ORCID](https://orcid.org/0009-0009-4600-7236)
+
+**Social & publishing**
+
+[X @Tisankan](https://x.com/Tisankan) ·
+[X @JTisankan](https://x.com/JTisankan) ·
+[Facebook @tisankanj](https://www.facebook.com/tisankanj) ·
+[Facebook @Jthisankan](https://www.facebook.com/Jthisankan) ·
+[Instagram](https://www.instagram.com/tisankan_rascal) ·
+[TikTok](https://www.tiktok.com/@tisankanj) ·
+[YouTube](https://www.youtube.com/@tisankan) ·
+[Bluesky](https://bsky.app/profile/tisankan.bsky.social) ·
+[Mastodon](https://mastodon.social/@tisankan) ·
+[Medium](https://tisankan.medium.com/) ·
+[HackerNoon](https://hackernoon.com/about/tisankan) ·
+[SoundCloud](https://soundcloud.com/jtisankan)
+
+**Identity**
+
+[about.me](https://about.me/tisankan) ·
+[Gravatar](https://gravatar.com/tisankan)
+
+<br/>
+
+[![Website](https://img.shields.io/badge/tisankan.dev-0B0B0B?style=flat-square&logo=googlechrome&logoColor=white)](https://tisankan.dev)
+[![Email](https://img.shields.io/badge/hello@tisankan.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@tisankan.dev)
 [![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat-square&logo=dart&logoColor=white)](https://pub.dev/publishers/tisankan.dev/packages)
-[![Yarl Ventures](https://img.shields.io/badge/Yarl%20Ventures-1F6FEB?style=flat-square&logo=briefcase&logoColor=white)](https://yarlventures.com)
+[![Yarl Ventures](https://img.shields.io/badge/Yarl%20Ventures-1F6FEB?style=flat-square)](https://yarlventures.com)
 
 Open to talking about backend architecture, supply chain security,
 and building engineering teams in Sri Lanka.
